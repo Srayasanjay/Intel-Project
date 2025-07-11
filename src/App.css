@@ -1,0 +1,62 @@
+/* Base styles */
+body {
+  margin: 0;
+  background-color: #000814; /* very dark blue/black */
+  color: #caf0f8; /* light blue text */
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* App container */
+.App {
+  text-align: center;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 2rem;
+}
+
+/* Header */
+.App-header {
+  font-size: 2.5rem;
+  font-weight: 700;
+  color: #00b4d8; /* bright blue */
+  margin-bottom: 2rem;
+  text-shadow: 0 0 8px #00b4d8aa;
+}
+
+/* Video feed styling */
+.video-feed {
+  max-width: 320px;
+  width: 100%;
+  height: auto;
+  border: 3px solid #0077b6; /* medium blue */
+  border-radius: 12px;
+  margin-bottom: 1.5rem;
+  box-shadow: 0 0 20px #0077b6aa;
+  object-fit: cover;
+  background-color: #03045e; /* dark blue background behind video */
+}
+
+/* Engagement state box */
+.engagement-state {
+  background-color: #023e8a; /* darkish blue */
+  color: #caf0f8;
+  padding: 0.9rem 1.5rem;
+  border-radius: 12px;
+  font-size: 1.2rem;
+  box-shadow: 0 0 10px #00b4d8aa;
+  width: fit-content;
+  min-width: 280px;
+  font-weight: 600;
+  user-select: none;
+}
+
+/* Highlight text inside engagement state */
+.highlight {
+  color: #90e0ef; /* lighter blue */
+  font-weight: 700;
+}

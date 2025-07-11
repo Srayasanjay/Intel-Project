@@ -1,0 +1,101 @@
+18:34:36 - Neutral
+18:34:45 - Disengaged
+18:34:55 - Neutral
+18:35:05 - Neutral
+18:35:15 - Engaged
+18:35:25 - Disengaged
+18:35:35 - Confused / Distracted
+18:35:45 - Neutral
+18:35:55 - Neutral
+18:36:05 - Disengaged
+18:36:15 - Neutral
+18:36:25 - Neutral
+18:36:35 - Neutral
+18:36:45 - Neutral
+18:36:56 - Neutral
+18:37:06 - Disengaged
+18:37:16 - Neutral
+18:37:26 - Neutral
+18:37:36 - Neutral
+18:37:46 - Neutral
+18:37:56 - Engaged
+18:38:06 - Neutral
+18:38:16 - Engaged
+18:38:26 - Confused / Distracted
+18:38:36 - Engaged
+18:38:46 - Engaged
+18:38:56 - Neutral
+18:39:06 - Neutral
+18:39:16 - Neutral
+18:39:26 - Neutral
+18:39:36 - Neutral
+18:39:46 - Confused / Distracted
+18:39:56 - Disengaged
+18:40:06 - Disengaged
+18:40:16 - Neutral
+18:40:26 - Neutral
+18:40:36 - Disengaged
+18:40:46 - No face detected
+18:40:56 - No face detected
+18:41:06 - No face detected
+18:41:16 - No face detected
+18:41:26 - No face detected
+18:41:36 - No face detected
+18:41:46 - No face detected
+18:41:56 - No face detected
+18:42:06 - No face detected
+18:42:16 - No face detected
+18:42:26 - Disengaged
+18:42:36 - No face detected
+18:42:46 - No face detected
+18:42:56 - No face detected
+18:43:06 - No face detected
+18:43:16 - No face detected
+18:43:26 - No face detected
+18:43:36 - No face detected
+18:43:46 - No face detected
+18:43:56 - No face detected
+18:44:07 - No face detected
+18:44:17 - No face detected
+18:44:27 - No face detected
+18:44:37 - No face detected
+18:44:47 - No face detected
+18:44:57 - No face detected
+18:45:07 - No face detected
+18:45:17 - No face detected
+18:45:27 - No face detected
+18:45:37 - No face detected
+18:45:47 - No face detected
+18:45:57 - No face detected
+18:46:07 - No face detected
+18:46:17 - No face detected
+18:46:27 - No face detected
+18:46:37 - No face detected
+18:46:47 - No face detected
+18:46:57 - No face detected
+18:47:07 - No face detected
+18:47:17 - No face detected
+18:47:27 - No face detected
+18:47:37 - No face detected
+18:47:47 - No face detected
+18:47:57 - No face detected
+18:48:07 - No face detected
+18:48:17 - No face detected
+18:48:27 - No face detected
+18:48:37 - No face detected
+18:48:47 - No face detected
+18:48:57 - No face detected
+18:49:07 - No face detected
+18:49:17 - No face detected
+18:49:27 - No face detected
+18:49:38 - No face detected
+18:49:48 - No face detected
+18:49:58 - No face detected
+18:50:08 - No face detected
+18:50:18 - No face detected
+18:50:28 - No face detected
+18:50:38 - No face detected
+18:50:48 - No face detected
+18:50:58 - No face detected
+18:51:08 - No face detected
+18:51:18 - No face detected
